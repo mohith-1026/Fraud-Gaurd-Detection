@@ -20,4 +20,6 @@ FraudGuard is a full-stack, real-time fraud detection system designed to identif
 2. System processes and validates data  
 3. Rule-based checks flag basic fraud patterns  
 4. ML model detects anomalies  
-5. Dashboard displays results and alerts  
+5. Dashboard displays results and alerts
+
+Live Demo: https://guard-bharat-watch-five.vercel.app/
